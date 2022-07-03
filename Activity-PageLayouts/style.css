@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkgray;
+  height: 100%;
+}
+
+span {
+  display: inline-block;
+}
+
+.pic {
+  border-color: #264653;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: #b5179e;
+}
+
+div {
+  border: double;
+  border-color: darkblue;
+}
+
+header {
+  font-size: 3em;
+  text-shadow: 2px 2px white;
+}
+
+#pics span {
+  border: 1px solid black;
+}
